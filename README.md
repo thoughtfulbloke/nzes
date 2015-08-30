@@ -9,3 +9,7 @@ This is some code for converting the Election survey results file in SPSS to a c
 
 Code I used for calculating how much voters liked the party they were voting for, and how much the liked other political parties.
 
+* labnat.R
+
+If you pretend no-one but National and Labour were running in the 2011 election, and pretend nothing but how the voters placed the parties left to right against where they placed themselves matters, this is how it looks. Personally I think this is a silly model to use.
+
